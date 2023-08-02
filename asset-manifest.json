@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Expenses-Calendar/static/css/main.7797faf5.chunk.css",
+    "main.js": "/Expenses-Calendar/static/js/main.39e67892.chunk.js",
+    "main.js.map": "/Expenses-Calendar/static/js/main.39e67892.chunk.js.map",
+    "runtime-main.js": "/Expenses-Calendar/static/js/runtime-main.e4bd35b9.js",
+    "runtime-main.js.map": "/Expenses-Calendar/static/js/runtime-main.e4bd35b9.js.map",
+    "static/js/2.a3a0b409.chunk.js": "/Expenses-Calendar/static/js/2.a3a0b409.chunk.js",
+    "static/js/2.a3a0b409.chunk.js.map": "/Expenses-Calendar/static/js/2.a3a0b409.chunk.js.map",
+    "index.html": "/Expenses-Calendar/index.html",
+    "static/css/main.7797faf5.chunk.css.map": "/Expenses-Calendar/static/css/main.7797faf5.chunk.css.map",
+    "static/js/2.a3a0b409.chunk.js.LICENSE.txt": "/Expenses-Calendar/static/js/2.a3a0b409.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e4bd35b9.js",
+    "static/js/2.a3a0b409.chunk.js",
+    "static/css/main.7797faf5.chunk.css",
+    "static/js/main.39e67892.chunk.js"
+  ]
+}
